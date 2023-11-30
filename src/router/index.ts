@@ -4,8 +4,8 @@ import { createRouter } from 'vue-router'
 const routes = [
   {
     path: '/',
-    component: () => import('../views/Home.vue')
-  }
+    component: () => import('../views/Home.vue'),
+  },
   // {
   //   path: '/goods',
   //   component: () => import('../views/Goods.vue')
@@ -19,6 +19,6 @@ const routes = [
 export default function (history: any) {
   return createRouter({
     history,
-    routes
+    routes,
   })
 }
