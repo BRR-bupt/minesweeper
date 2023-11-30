@@ -4,9 +4,9 @@
 大佬开源源码： [antfu/vue-minesweeper](https://github.com/antfu/vue-minesweeper)
 
 ## Demo
-[网页链接](https://buptyi.xyz:3333/)
+[网页链接](https://mineswepper.netlify.app/)
 
-![首页截图](https://buptyi.xyz:5000/minesweeper.png)
+![首页截图](https://brrblog.netlify.app/assets/minesweeper.0d6279ff.png)
 
 
 ## 🚀 Features
